@@ -1,1 +1,59 @@
 /* Ici vos styles CSS*/
+body {
+    font-family: Arial, sans-serif;
+    background-color: #E4F1EF;
+    font-size: 15px;
+  }
+  
+  header,
+  footer {
+    background-color: #30C2A7;
+    text-align: center;
+    color: white;
+  }
+  
+  h1 {
+    font-weight: normal;
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    text-align: center;
+  }
+  
+  h1,
+  h2,
+  h3 {
+    text-transform: uppercase;
+  }
+  
+  h1 span {
+    font-size: 2em;
+    font-weight: bold;
+  }
+  
+  h2 {
+    color: #30C2A7;
+  }
+  
+  section {
+    background-color: white;
+  }
+  
+  .definition {
+    background-color: #FEFFE2;
+    text-align: center;
+  }
+  
+  strong {
+    background-color: yellow;
+  }
+  
+  em {
+    text-decoration: overline;
+    font-style: italic;
+  }
